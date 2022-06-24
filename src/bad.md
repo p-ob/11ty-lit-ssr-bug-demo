@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 permalink:
   serverless: /bad/
 ---
